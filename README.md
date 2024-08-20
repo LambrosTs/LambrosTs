@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LambrosTs
 - 👀 I’m interested in computers and coding
 - 🌱 I’m currently learning about Data Science and Data Analytics
-- 💞️ I’m looking to collaborate on any Data Science/Analysis I can
+- 💞️ I’m looking to work as Data Scientist/Analyst
 - 📫 How to reach me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
