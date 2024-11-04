@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LambrosTs
 - 👀 I’m interested in computers and coding
-- 🌱 I’m currently learning about Data Science and Data Analytics
+- 🌱 I currently finished a summer school on Data Science and Data Analytics
 - 💞️ I’m looking to work as Data Scientist/Analyst
 - 📫 How to reach me: https://www.linkedin.com/in/lampros-tsoumaris-295294156/
 - ⚡ Fun fact: I start coding before I actually study it...
